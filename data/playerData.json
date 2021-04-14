@@ -9286,5 +9286,29 @@
     "Reactions (GK)": "",
     "Total": 426,
     "Age": "Age | 25"
+  },
+  {
+    "Rank": "Test",
+    "First Name": "Test",
+    "Last Name": "Test",
+    "Price": 0,
+    "Nationality": "Test",
+    "Team": "Test",
+    "Position": "Test",
+    "Foot": "Test",
+    "Overall": 0,
+    "Height": "Test",
+    "Speed": "Test",
+    "Acceleration": "Test",
+    "Stamina": "Test",
+    "Control": "Test",
+    "Strength": "Test",
+    "Tackling": "Test",
+    "Passing": "Test",
+    "Shooting": "Test",
+    "Handling (GK)": "",
+    "Reactions (GK)": "",
+    "Total": 0,
+    "Age": "Test"
   }
 ]
