@@ -4041,7 +4041,7 @@
     "Position": "CF",
     "Foot": "Right",
     "Overall": 78,
-    "Height": "175 5'9)",
+    "Height": "175 (5'9)",
     "Speed": "SPE | 86",
     "Acceleration": "ACC | 85",
     "Stamina": "STA | 74",
@@ -9310,5 +9310,29 @@
     "Reactions (GK)": "",
     "Total": 426,
     "Age": "Age | 25"
+  },
+  {
+    "Rank": "#",
+    "First Name": "Carlos",
+    "Last Name": "Fernandez",
+    "Price": 100,
+    "Nationality": "Spain",
+    "Team": "Real Sociedad",
+    "Position": "CF",
+    "Foot": "Right",
+    "Overall": 49,
+    "Height": "185 (6'2)",
+    "Speed": "SPE | 45",
+    "Acceleration": "ACC | 45",
+    "Stamina": "STA | 45",
+    "Control": "CON | 45",
+    "Strength": "STR | 45",
+    "Tackling": "TAC | 45",
+    "Passing": "PAS | 45",
+    "Shooting": "SHO | 45",
+    "Handling (GK)": "",
+    "Reactions (GK)": "",
+    "Total": 360,
+    "Age": "Age | 24"
   }
 ]
